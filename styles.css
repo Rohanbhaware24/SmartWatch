@@ -335,9 +335,8 @@ footer {
     flex-direction: column;
   }
   .feature_title{
-    margin-left:0;
-    margin-right:0;
-    text-align:center;
+    padding-left: 0;
+    padding-right: 0;
   }
   .Reviews_img, .Reviews_text, .Reviews_text_second, .Reviews_img_second {
     margin-left: 0;
