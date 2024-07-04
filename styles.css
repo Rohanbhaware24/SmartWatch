@@ -334,7 +334,11 @@ footer {
   .feedback_first{
     flex-direction: column;
   }
-
+  .feature_title{
+    margin-left:0;
+    margin-right:0;
+    text-align:center;
+  }
   .Reviews_img, .Reviews_text, .Reviews_text_second, .Reviews_img_second {
     margin-left: 0;
     margin-right: 0;
@@ -343,6 +347,7 @@ footer {
 
   .login {
     margin-right: 0;
+    margin-left:0;
   }
 
   .footer-container {
